@@ -6,12 +6,12 @@
       "name": "FC BARCELONA",
       "birth_date": "1990-11-07",
       "Position": "Goalkeeper",
-      "Poster": "http://football-player.rf.gd/football/degea.png"
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/thumb/4/47/FC_Barcelona_%28crest%29.svg/225px-FC_Barcelona_%28crest%29.svg.png"
     },
     {
       "id": 2,
       "no": 2,
-      "name": "MAN",
+      "name": "Chelsea F.C.",
       "birth_date": "1994-07-17",
       "Position": "Defender",
       "Poster": "http://football-player.rf.gd/football/viktor.png"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "no": 3,
-      "name": "Erick Bailly",
+      "name": "Manchester United F.C.",
       "birth_date": "1994-04-12",
       "Position": "Defender",
       "Poster": "http://football-player.rf.gd/football/erik.png"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "no": 4,
-      "name": "Phil Jones",
+      "name": "Liverpool F.C.",
       "birth_date": "1992-02-21",
       "Position": "Defender",
       "Poster": "http://football-player.rf.gd/football/phil.png"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "no": 5,
-      "name": "Marcos Rojo",
+      "name": "Real Madrid",
       "birth_date": "1990-03-20",
       "Position": "Defender",
       "Poster": "http://football-player.rf.gd/football/rojo.png"
@@ -43,7 +43,7 @@
     {
       "id": 6,
       "no": 6,
-      "name": "Paul Pogba",
+      "name": "A.C. Milan",
       "birth_date": "1993-03-15",
       "Position": "MidFielder",
       "Poster": "http://football-player.rf.gd/football/pogba.png"
@@ -51,7 +51,7 @@
     {
       "id": 7,
       "no": 7,
-      "name": "Alexis",
+      "name": "FC Bayern München",
       "birth_date": "1988-12-19",
       "Position": "Forward",
       "International": "Chile",
@@ -61,7 +61,7 @@
     {
       "id": 8,
       "no": 8,
-      "name": "Romelu Lukaku",
+      "name": "Paris Saint-Germain F.C.",
       "birth_date": "1993-05-13",
       "Position": "Striker",
       "Poster": "http://football-player.rf.gd/football/lukaku.png"
@@ -69,7 +69,7 @@
     {
       "id": 9,
       "no": 9,
-      "name": "Marcus Rashford",
+      "name": "Juventus F.C",
       "birth_date": "1997-02-02",
       "Position": "Forward",
       "Poster": "http://football-player.rf.gd/football/marcus.png"
