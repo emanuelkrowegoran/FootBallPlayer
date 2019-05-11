@@ -6,8 +6,6 @@
       "name": "FC BARCELONA",
       "birth_date": "1990-11-07",
       "Position": "Goalkeeper",
-      "International": "Spain",
-      "Team": "Manchester United",
       "Poster": "http://football-player.rf.gd/football/degea.png"
     },
     {
@@ -16,8 +14,6 @@
       "name": "MAN",
       "birth_date": "1994-07-17",
       "Position": "Defender",
-      "International": "Sweden",
-      "Team": "Manchester United",
       "Poster": "http://football-player.rf.gd/football/viktor.png"
     },
     {
@@ -26,8 +22,6 @@
       "name": "Erick Bailly",
       "birth_date": "1994-04-12",
       "Position": "Defender",
-      "International": "Ivory Coast",
-      "Team": "Manchester United",
       "Poster": "http://football-player.rf.gd/football/erik.png"
     },
     {
@@ -36,8 +30,6 @@
       "name": "Phil Jones",
       "birth_date": "1992-02-21",
       "Position": "Defender",
-      "International": "England",
-      "Team": "Manchester United",
       "Poster": "http://football-player.rf.gd/football/phil.png"
     },
     {
@@ -46,8 +38,6 @@
       "name": "Marcos Rojo",
       "birth_date": "1990-03-20",
       "Position": "Defender",
-      "International": "Argentina",
-      "Team": "Manchester United",
       "Poster": "http://football-player.rf.gd/football/rojo.png"
     },
     {
@@ -56,8 +46,6 @@
       "name": "Paul Pogba",
       "birth_date": "1993-03-15",
       "Position": "MidFielder",
-      "International": "France",
-      "Team": "Manchester United",
       "Poster": "http://football-player.rf.gd/football/pogba.png"
     },
     {
@@ -76,8 +64,6 @@
       "name": "Romelu Lukaku",
       "birth_date": "1993-05-13",
       "Position": "Striker",
-      "International": "Belgium",
-      "Team": "Manchester United",
       "Poster": "http://football-player.rf.gd/football/lukaku.png"
     },
     {
@@ -86,8 +72,6 @@
       "name": "Marcus Rashford",
       "birth_date": "1997-02-02",
       "Position": "Forward",
-      "International": "England",
-      "Team": "Manchester United",
       "Poster": "http://football-player.rf.gd/football/marcus.png"
     }
   ]
