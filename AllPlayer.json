@@ -3,12 +3,9 @@
     {
       "id": 1,
       "no": 1,
-      "name": "Ernesto Valverde",
-      "birth_date": "1990-11-07",
-      "Position": "Manager",
-      "International": "Spain",
-      "Team": "FC Barcelona",
-      "Poster": "https://fcbarcelona-static-files.s3.amazonaws.com/fcbarcelona/photo/2018/10/26/029a105b-5876-450b-9346-90d928ae9828/VALVERDE-JOC.jpg"
+      "name": "FC Barcelona",
+      "liga": "Spanyol",
+      "Poster": "https://i.pinimg.com/474x/6a/a0/06/6aa00618b05dde30d1bcb27d9cdf12c3--fc-barcelona-logo-barcelona-soccer.jpg"
     },
     {
       "id": 2,
