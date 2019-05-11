@@ -14,7 +14,7 @@
       "name": "Chelsea F.C.",
       "birth_date": "1994-07-17",
       "Position": "Defender",
-      "Poster": "http://football-player.rf.gd/football/viktor.png"
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/thumb/c/cc/Chelsea_FC.svg/209px-Chelsea_FC.svg.png"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "name": "Manchester United F.C.",
       "birth_date": "1994-04-12",
       "Position": "Defender",
-      "Poster": "http://football-player.rf.gd/football/erik.png"
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/Manchester_United_FC_crest.svg/296px-Manchester_United_FC_crest.svg.png"
     },
     {
       "id": 4,
@@ -46,7 +46,7 @@
       "name": "A.C. Milan",
       "birth_date": "1993-03-15",
       "Position": "MidFielder",
-      "Poster": "http://football-player.rf.gd/football/pogba.png"
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/1/17/AC_Milan.png"
     },
     {
       "id": 7,
