@@ -3,32 +3,32 @@
     {
       "id": 1,
       "no": 1,
-      "name": "David De Gea",
+      "name": "Ernesto Valverde",
       "birth_date": "1990-11-07",
-      "Position": "Goalkeeper",
+      "Position": "Manager",
       "International": "Spain",
-      "Team": "Manchester United",
-      "Poster": "http://bola.rakyatku.com/thumbs/img_660_442_coutinho-m_1524966215_sun.jpg"
-	  },
+      "Team": "FC Barcelona",
+      "Poster": "https://fcbarcelona-static-files.s3.amazonaws.com/fcbarcelona/photo/2018/10/26/029a105b-5876-450b-9346-90d928ae9828/VALVERDE-JOC.jpg"
+    },
     {
       "id": 2,
       "no": 2,
-      "name": "Victor Lindelov",
+      "name": "Marc-André ter Stegen",
       "birth_date": "1994-07-17",
-      "Position": "Defender",
+      "Position": "Goalkeepers",
       "International": "Sweden",
-      "Team": "Manchester United",
-      "Poster": "http://football-player.rf.gd/football/viktor.png"
+      "Team": "FC Barcelona",
+      "Poster": "https://fcbarcelona-static-files.s3.amazonaws.com/fcbarcelona/photo/2018/09/21/984f421a-0138-486c-889e-7f9d54f87b06/01_TER-STEGEN-JOC.jpg"
     },
     {
       "id": 3,
       "no": 3,
-      "name": "Erick Bailly",
+      "name": "Luis Alberto Suárez Díaz",
       "birth_date": "1994-04-12",
-      "Position": "Defender",
+      "Position": "Forwards",
       "International": "Ivory Coast",
-      "Team": "Manchester United",
-      "Poster": "http://football-player.rf.gd/football/erik.png"
+      "Team": "FC Barcelona",
+      "Poster": "https://fcbarcelona-static-files.s3.amazonaws.com/fcbarcelona/photo/2018/09/21/91523f68-f9c9-4c3d-88dc-a13ef0d78cc0/09-SUAREZ-JOC.jpg"
     },
     {
       "id": 4,
