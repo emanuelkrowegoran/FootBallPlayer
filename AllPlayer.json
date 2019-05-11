@@ -1,11 +1,13 @@
 {
   "result": [
-    {
-      "id": 1,
+    "id": 1,
       "no": 1,
-      "name": "FC Barcelona",
-      "liga": "Spanyol",
-      "Poster": "https://i.pinimg.com/474x/6a/a0/06/6aa00618b05dde30d1bcb27d9cdf12c3--fc-barcelona-logo-barcelona-soccer.jpg"
+      "name": "Marc-André ter Stegen",
+      "birth_date": "1994-07-17",
+      "Position": "Goalkeepers",
+      "International": "Sweden",
+      "Team": "FC Barcelona",
+      "Poster": "https://fcbarcelona-static-files.s3.amazonaws.com/fcbarcelona/photo/2018/09/21/984f421a-0138-486c-889e-7f9d54f87b06/01_TER-STEGEN-JOC.jpg"
     },
     {
       "id": 2,
