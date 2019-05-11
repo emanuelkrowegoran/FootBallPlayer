@@ -3,18 +3,18 @@
     {
       "id": 1,
       "no": 1,
-      "name": "David De Gea",
+      "name": "Barcelona",
       "birth_date": "1990-11-07",
-      "Position": "Goalkeeper",
-      "Poster": "http://football-player.rf.gd/football/degea.png"
+      "Position": "Spanyol",
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/thumb/4/47/FC_Barcelona_%28crest%29.svg/225px-FC_Barcelona_%28crest%29.svg.png"
     },
     {
       "id": 2,
       "no": 2,
-      "name": "Victor Lindelov",
+      "name": "Real Madrid",
       "birth_date": "1994-07-17",
-      "Position": "Defender",
-      "Poster": "http://football-player.rf.gd/football/viktor.png"
+      "Position": "Spanyol",
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/8/8b/Real_Madrid_Club_de_F%C3%BAtbol.png"
     },
     {
       "id": 3,
