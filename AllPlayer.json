@@ -30,7 +30,7 @@
       "name": "Liverpool F.C.",
       "birth_date": "1992-02-21",
       "Position": "Liga Inggris",
-      "Poster": "https://upload.wikimedia.org/wikipedia/id/thumb/4/47/FC_Barcelona_%28crest%29.svg/225px-FC_Barcelona_%28crest%29.svg.png"
+      "Poster": "https://seeklogo.com/images/L/liverpool-football-club-logo-F989101B10-seeklogo.com.png"
     },
     {
       "id": 5,
@@ -46,7 +46,7 @@
       "name": "A.C. Milan",
       "birth_date": "1993-03-15",
       "Position": "Liga Italy",
-      "Poster": "https://upload.wikimedia.org/wikipedia/id/8/8b/Real_Madrid_Club_de_F%C3%BAtbol.png"
+      "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/800px-Logo_of_AC_Milan.svg.png"
     },
     {
       "id": 7,
@@ -54,15 +54,7 @@
       "name": "FC Bayern München",
       "birth_date": "1988-12-19",
       "Position": "Liga Italy",
-     "Poster": "https://upload.wikimedia.org/wikipedia/id/8/8b/Real_Madrid_Club_de_F%C3%BAtbol.png"
-    },
-    {
-      "id": 8,
-      "no": 8,
-      "name": "Paris Saint-Germain F.C.",
-      "birth_date": "1993-05-13",
-      "Position": "Liga Italy",
-      "Poster": "https://upload.wikimedia.org/wikipedia/id/8/8b/Real_Madrid_Club_de_F%C3%BAtbol.png"
+     "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/800px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png"
     }
   ]
 }
