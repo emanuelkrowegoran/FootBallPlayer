@@ -14,7 +14,7 @@
       "name": "Chelsea F.C.",
       "birth_date": "1994-07-17",
       "Position": "Liga Inggris",
-      "Poster": "https://upload.wikimedia.org/wikipedia/id/thumb/c/cc/Chelsea_FC.svg/209px-Chelsea_FC.svg.png"
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/thumb/4/47/FC_Barcelona_%28crest%29.svg/225px-FC_Barcelona_%28crest%29.svg.png"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "name": "Manchester United F.C.",
       "birth_date": "1994-04-12",
       "Position": "Liga Inggris",
-      "Poster": "https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/Manchester_United_FC_crest.svg/296px-Manchester_United_FC_crest.svg.png"
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/thumb/4/47/FC_Barcelona_%28crest%29.svg/225px-FC_Barcelona_%28crest%29.svg.png"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "name": "Liverpool F.C.",
       "birth_date": "1992-02-21",
       "Position": "Liga Inggris",
-      "Poster": "https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Liverpool_FC.svg/370px-Liverpool_FC.svg.png"
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/thumb/4/47/FC_Barcelona_%28crest%29.svg/225px-FC_Barcelona_%28crest%29.svg.png"
     },
     {
       "id": 5,
@@ -46,7 +46,7 @@
       "name": "A.C. Milan",
       "birth_date": "1993-03-15",
       "Position": "Liga Italy",
-      "Poster": "https://upload.wikimedia.org/wikipedia/id/1/17/AC_Milan.png"
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/8/8b/Real_Madrid_Club_de_F%C3%BAtbol.png"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "name": "FC Bayern München",
       "birth_date": "1988-12-19",
       "Position": "Liga Italy",
-      "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg/600px-Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg.png"
+     "Poster": "https://upload.wikimedia.org/wikipedia/id/8/8b/Real_Madrid_Club_de_F%C3%BAtbol.png"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "name": "Paris Saint-Germain F.C.",
       "birth_date": "1993-05-13",
       "Position": "Liga Italy",
-      "Poster": "https://upload.wikimedia.org/wikipedia/id/4/4b/Paris_Saint-Germain_F.C._Logo.jpg"
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/8/8b/Real_Madrid_Club_de_F%C3%BAtbol.png"
     }
   ]
 }
